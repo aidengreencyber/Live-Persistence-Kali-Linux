@@ -3,7 +3,7 @@
 
 ## Objective
 
-This project was aimed at making a portable device in which Kali Linux can be run. It allows for live persistence which will save any files or programs that Kali Linux uses. Making this on a portable flash drive allows for eas access and use. 
+This project was aimed at making a portable device in which Kali Linux can be run. It allows for live persistence which will save any files or programs that Kali Linux uses. Making this on a portable flash drive allows for easy access and portability. 
 
 ### Skills Learned
 
